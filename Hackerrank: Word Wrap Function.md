@@ -47,5 +47,3 @@ print(wrap(text, width))
 
 Program is verified successfully.
 
-## Result
-
